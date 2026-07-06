@@ -1,3 +1,5 @@
+[![actions](https://github.com/gomatic/docs.go-log/actions/workflows/actions.yml/badge.svg)](https://github.com/gomatic/docs.go-log/actions/workflows/actions.yml) [![docs](https://github.com/gomatic/docs.go-log/actions/workflows/docs.yml/badge.svg)](https://github.com/gomatic/docs.go-log/actions/workflows/docs.yml) [![pages](https://github.com/gomatic/docs.go-log/actions/workflows/pages.yml/badge.svg)](https://github.com/gomatic/docs.go-log/actions/workflows/pages.yml)
+
 # docs.go-log
 
 The **public documentation** site for [`gomatic/go-log`](https://github.com/gomatic/go-log). Built from [`nicerobot/template.repo-docs`](https://github.com/nicerobot/template.repo-docs) as a self-contained [Hugo](https://gohugo.io) site, published to GitHub Pages.
